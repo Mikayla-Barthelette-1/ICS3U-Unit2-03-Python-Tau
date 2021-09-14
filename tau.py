@@ -4,7 +4,6 @@
 # Created on: Sept 2021
 # This program finds the circumference of a circle using tau
 
-import math
 import constants
 
 
